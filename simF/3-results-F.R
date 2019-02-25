@@ -43,6 +43,6 @@ for (aa in 1:n.subcases) {
 
 colnames(purity.avg) = colnames(time.user) = 2:7
 
-boxplot(purity.avg, ylim = c(0, 1), xlab = 'K', ylab = 'purity', main = 'F', 
+boxplot(purity.avg, ylim = c(0, 1), xlab = 'M', ylab = 'purity', main = 'F', 
         cex.main = 2.3, cex.axis = 1.7, cex.lab = 1.9)
 points(x = 1:6, y = 1/(2:7), pch = 15)
