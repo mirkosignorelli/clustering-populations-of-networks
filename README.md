@@ -2,7 +2,7 @@
 
 Data and code to reproduce the simulations in:
 
-Signorelli, M., Wit, E. C., Model-based clustering for populations of networks. arXiv preprint: arXiv:1806.00225.
+Signorelli, M., Wit, E. C., Model-based clustering for populations of networks (in review). arXiv preprint: arXiv:1806.00225.
 
 The code to run each simulation is divided into scripts sequentially numbered:
 - script 1 generates the data
