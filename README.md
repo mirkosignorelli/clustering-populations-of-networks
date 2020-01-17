@@ -1,8 +1,10 @@
-# clustering-populations-of-networks
+# Model-based clustering for populations of networks
 
-Data and code to reproduce the simulations in:
+This folder contains R scripts related to the publication of Signorelli, M., Wit, E. C. (2020). Model-based clustering for populations of networks. *Statistical Modelling*, 20 (1).
+You can read the paper (with open access) here: https://journals.sagepub.com/doi/full/10.1177/1471082X19871128
 
-Signorelli, M., Wit, E. C. (2020, in press). Model-based clustering for populations of networks. Statistical Modelling, 20 (1). arXiv preprint: arXiv:1806.00225.
+## About this repository
+This repository contains the data and code to reproduce the simulations presented in Signorelli and Wit (2020).
 
 The code to run each simulation is divided into scripts sequentially numbered:
 - script 1 generates the data
