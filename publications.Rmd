@@ -1,0 +1,88 @@
+---
+title: "Publications"
+pagetitle: "Publications of Mirko Signorelli"
+---
+
+### Methodological articles
+
+* **Signorelli, M.**, Spitali, P., Al-Khalili Szigyarto, C., The Mark-MD Consortium, Tsonaka, R. (in review). 
+Penalized regression calibration: a method for the prediction of survival outcomes using complex longitudinal and high-dimensional data.
+
+* **Signorelli, M.**, Cutillo, L. (in review). 
+[On community structure validation in real networks](https://arxiv.org/abs/1710.06611). arXiv preprint number: arXiv:1710.0661.
+
+* **Signorelli, M.**, Spitali, P., Tsonaka, R. (2020).
+[Poisson-Tweedie mixed-effects model: a flexible approach for the analysis of longitudinal RNA-seq data](https://journals.sagepub.com/doi/10.1177/1471082X20936017). 
+Statistical Modelling.
+
+* **Signorelli, M.**, Wit, E. C. (2020).
+[Model-based clustering for populations of networks](https://journals.sagepub.com/doi/full/10.1177/1471082X19871128). 
+Statistical Modelling, 20 (1), 9-29.  
+<span style="color: orchid;">
+A conference proceedings version of this article was awarded the [Best Student Paper Award of the Statistical Modelling Society](awards.html) (SMS) at the 32nd International Workshop on Statistical Modelling (IWSM, 2017).
+</span>
+
+* **Signorelli, M.**, Wit, E. C. (2018). 
+[A penalized inference approach to stochastic block modelling of community structure in the Italian Parliament](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12234). 
+Journal of the Royal Statistical Society: Series C (Applied Statistics), 67 (2), 355-369. 
+
+* **Signorelli, M.** (2017). [Inferring Community-driven Structure in Complex Networks](https://www.researchgate.net/publication/322746472_Inferring_Community-driven_Structure_in_Complex_Networks). University of Groningen and University of Padova.
+ISBN: 978-90-367-9575-3.  
+NB: This is my doctoral dissertation. Promotors: Ernst Wit and Monica Chiogna.  
+<span style="color: orchid;">
+My PhD thesis was awarded the [Best PhD Thesis Award of the Italian Statistical Society](awards.html) (SIS) in the category Applied Statistics.
+</span>
+
+* **Signorelli, M.** (2017). 
+[Variable selection for (realistic) stochastic blockmodels](https://www.researchgate.net/publication/315716028_Variable_selection_for_realistic_stochastic_blockmodels). 
+In: Petrucci, A., Verde, R. (editors), SIS 2017. Statistics and Data Science: new challenges, new generations, pp. 927-934. Firenze University Press. ISBN: 978-88-6453-521-0.
+
+* **Signorelli, M.**, Vinciotti, V., Wit, E. C. (2016). 
+[NEAT: an efficient network enrichment analysis test](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6).
+BMC Bioinformatics, 17, 352.  
+<span style="color: orchid;">
+With this article I won the competition for the [Research Award 2016 of the Department of Statistical Sciences of the University of Padova](awards.html).
+</span>
+
+### Applied statistics articles
+
+* **Signorelli, M.**, Ebrahimpoor, M. et al. (in review). 
+Peripheral blood transcriptome profiling enables monitoring disease progression in dystrophic mice and patients.
+
+* Koeks, Z., Janson, A. A. et al. [including **Signorelli, M.**] (in review). 
+Low dystrophin variability between muscles and stable expression over time in Becker muscular dystrophy using capillary western immunoassay.
+
+* **Signorelli, M.**, Ayoglu, B. et al. (2020). 
+[Longitudinal serum biomarker screening identifies malate dehydrogenase 2 as candidate prognostic biomarker for Duchenne muscular dystrophy](https://onlinelibrary.wiley.com/doi/full/10.1002/jcsm.12517). 
+Journal of Cachexia, Sarcopenia and Muscle, 11, 505-517.
+
+* **Signorelli, M.**, Mason, A. et al. (2020). 
+[Evaluation of blood gene expression levels in facioscapulohumeral muscular dystrophy patients](https://www.nature.com/articles/s41598-020-74687-5). 
+Scientific Reports, 10, 17547.
+
+* Tsonaka, R., **Signorelli, M.**, Sabir, E., Seyer, A., Hettne, K., Aartsma-Rus, A., Spitali, P. (2020). 
+[Longitudinal metabolomic analysis of plasma enables modelling disease progression in Duchenne muscular dystrophy mouse models](https://academic.oup.com/hmg/article/29/5/745/5698697). 
+Human Molecular Genetics, 29 (5), 745-755.
+
+* Previtali, S., Gidaro, T. et al [including **Signorelli, M.**] (2020). 
+[Rimeporide as a ﬁrst- in-class NHE-1 inhibitor: Results of a Phase Ib trial in young patients with Duchenne Muscular Dystrophy](https://www.sciencedirect.com/science/article/pii/S1043661820313074). Pharmacological Research, 159, 104999.
+
+* Strandberg, K., Ayoglu, B. et al [including **Signorelli, M.**] (2020). 
+[Blood-derived biomarkers correlate with clinical progression in Duchenne muscular dystrophy](https://content.iospress.com/articles/journal-of-neuromuscular-diseases/jnd190454). 
+Journal of Neuromuscular Diseases, 7 (3), 231-246.
+
+### Public outreach articles
+
+* Fortuna, M., Vitalini, F., **Signorelli, M.** et al. (in review). 
+e-Rum2020: how we turned a physical conference into a successful virtual event.
+
+### Conference proceedings and technical reports
+
+* **Signorelli, M.**, Wit, E. C. (2017). 
+Model-based clustering for populations of networks. Proceedings of the 32nd International Workshop on Statistical Modelling, vol. 1, pp. 155-160.
+
+* **Signorelli, M.**, Vinciotti, V., Wit, E. C. (2016). 
+NEAT: an efficient Network Enrichment Analysis Test. Proceedings of the 31st International Workshop on Statistical Modelling, vol. 1, pp. 289-294.
+
+* Minotti S. C., **Signorelli, M.** (2013). 
+Il modello Tucker3 per l’analisi dei bilanci dei comuni italiani. Technical report number 241 of the Department of Statistics and Quantitative Methods of the University of Milan-Bicocca.
